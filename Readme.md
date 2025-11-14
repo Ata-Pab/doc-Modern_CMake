@@ -1,9 +1,9 @@
 > **Reference**
-> - [1]: [CMake 4.2.0-rc3 Documentation](https://cmake.org/cmake/help/latest/index.html)
-> - [3]: [ESP-IDF Programming Guide v5](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/build-system.html)
-> - [4]: [Getting Started with CMake](https://cmake.org/getting-started/)
-> - [6]: [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
-> - [7]: [Modern CMake – Tips and Tricks](https://www.incredibuild.com/blog/modern-cmake-tips-and-tricks)
+> - [CMake 4.2.0-rc3 Documentation](https://cmake.org/cmake/help/latest/index.html)
+> - [ESP-IDF Programming Guide v5](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/build-system.html)
+> - [Getting Started with CMake](https://cmake.org/getting-started/)
+> - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+> - [Modern CMake – Tips and Tricks](https://www.incredibuild.com/blog/modern-cmake-tips-and-tricks)
 
 # **CMake Design**
 

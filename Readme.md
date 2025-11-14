@@ -1,14 +1,9 @@
 > **Reference**
-> [1]: https://cmake.org/cmake/help/latest/index.html "CMake 4.2.0-rc3 Documentation"
-> [2]: https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 "Effective Modern CMake"
-> [3]: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/build-system.html "Build System - ESP32 - — ESP-IDF Programming Guide v5 ..."
-> [4]: https://cmake.org/getting-started/ "Getting Started with CMake"
-> [5]: https://cmake.org/cmake/help/latest/guide/tutorial/index.html "CMake Tutorial — CMake 4.2.0-rc3 Documentation"
-> [6]: https://cliutils.gitlab.io/modern-cmake/ "An Introduction to Modern CMake"
-> [7]: https://www.incredibuild.com/blog/modern-cmake-tips-and-tricks "Modern CMake – Tips and Tricks"
-> [8]: https://indico.jlab.org/event/420/contributions/7961/attachments/6507/8734/CMakeSandCroundtable.slides.pdf "CMake: Best Practices"
-> [9]: https://www.youtube.com/watch?v=IBgfeZME2Vw "CMake FULL practical Guide!"
-> [10]: https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/additionalfeatures/cmakelists-editor.html "CMakeLists.txt Editor - - — ESP-IDF Extension for VSCode ..."
+> - [1]: [CMake 4.2.0-rc3 Documentation](https://cmake.org/cmake/help/latest/index.html)
+> - [3]: [ESP-IDF Programming Guide v5](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/build-system.html)
+> - [4]: [Getting Started with CMake](https://cmake.org/getting-started/)
+> - [6]: [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+> - [7]: [Modern CMake – Tips and Tricks](https://www.incredibuild.com/blog/modern-cmake-tips-and-tricks)
 
 # **CMake Design**
 
